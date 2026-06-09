@@ -1,0 +1,7 @@
+# Workspaces de evaluación del skill-creator
+*-workspace/
+evals/workspace/
+
+# Sistema
+.DS_Store
+Thumbs.db
